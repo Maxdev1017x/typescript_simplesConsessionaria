@@ -1,5 +1,5 @@
 export default class Carro {
-    public modelo: string
+    protected modelo: string
     private numeroDePortas: number
     private velocidade: number = 0
 
